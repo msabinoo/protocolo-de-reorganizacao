@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="270" viewBox="0 0 400 270">
+ <defs><linearGradient id="sky" x2="0.8" y2="1"><stop stop-color="#281843"/><stop offset="1" stop-color="#7951a4"/></linearGradient><linearGradient id="screen" x2="1" y2="1"><stop stop-color="#4e2791"/><stop offset="1" stop-color="#de9eda"/></linearGradient></defs>
+ <rect width="400" height="270" rx="22" fill="url(#sky)"/>
+ <circle cx="310" cy="50" r="23" fill="#e9cb72" opacity=".8"/>
+ <path d="M310 24 A26 26 0 1 0 336 50 A17 17 0 1 1 310 24" fill="#281843"/>
+ <rect x="70" y="65" width="260" height="152" rx="10" fill="#1f172a" stroke="#d4af37" stroke-width="4"/>
+ <rect x="81" y="76" width="238" height="129" rx="3" fill="url(#screen)"/>
+ <path d="M50 218 H349 L366 231 Q370 237 356 240 H42 Q30 237 34 231Z" fill="#bdb8c5"/>
+ <text x="200" y="149" text-anchor="middle" font-size="24" fill="#fff8e8" font-family="Georgia">Meu objetivo ✨</text>
+ <g fill="#f3e3a1"><circle cx="39" cy="62" r="3"/><circle cx="356" cy="100" r="3"/><circle cx="364" cy="45" r="2"/></g>
+</svg>

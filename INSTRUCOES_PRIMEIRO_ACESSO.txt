@@ -1,0 +1,19 @@
+PROTOCOLO DE REORGANIZACAO - PRIMEIRO ACESSO NO WINDOWS
+
+1. Extraia o ZIP para a Area de Trabalho, formando a pasta protocolo-de-reorganizacao.
+2. Abra esta pasta, clique na barra de endereco do Explorador de Arquivos, digite powershell e pressione Enter.
+3. Verifique node -v e npm -v. Se necessario, instale Node.js LTS: https://nodejs.org
+4. Instale o Claude Code se ainda nao tiver:
+   irm https://claude.ai/install.ps1 | iex
+   Feche e reabra o PowerShell. Confira: claude --version
+5. Instale as dependencias do site: npm install
+6. Inicie o site em uma primeira janela: npm run dev
+   Abra o endereco mostrado, geralmente http://127.0.0.1:5173/
+7. Abra outra janela PowerShell DENTRO DA MESMA PASTA e execute: claude
+8. Faca login no Claude Code se solicitado.
+9. Digite esta mensagem no Claude Code:
+   Leia integralmente PROMPT_PARA_CLAUDE_CODE.md e CLAUDE.md, examine a referencia visual em assets/referencia-visual.png e execute o desenvolvimento completo. Ao final rode npm run build e npm run test:logic, corrija todos os erros e me diga como testar a versao final.
+10. Para testar alteracoes, volte ao navegador. Para parar o servidor use Ctrl+C.
+
+Leia tambem README_PT-BR.md.
+ATENCAO: dados pessoais/emocionais ficam no navegador. Faca backup na pagina Diario.

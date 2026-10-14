@@ -1,0 +1,17 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+.DS_Store
+*.log
+*.tsbuildinfo
+*.local
+coverage/
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+# Backups pessoais exportados pelo app (contêm registros emocionais) — nunca enviar ao GitHub
+protocolo-de-reorganizacao-backup-*.json
+*backup*.json

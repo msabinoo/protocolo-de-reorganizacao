@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="108" height="132" viewBox="0 0 108 132" role="img" aria-label="Avatar de uma menina com vestido roxo">
+ <defs><linearGradient id="dress" x2="1" y2="1"><stop stop-color="#c8b4e6"/><stop offset="1" stop-color="#6f3fae"/></linearGradient><linearGradient id="hair" x2="1" y2="0.8"><stop stop-color="#5a2c20"/><stop offset="1" stop-color="#2e1426"/></linearGradient></defs>
+ <ellipse cx="55" cy="125" rx="32" ry="5" fill="#150a21" opacity=".35"/>
+ <path d="M31 42 C15 4, 86 1, 81 41 L79 80 Q51 99 28 71Z" fill="url(#hair)" stroke="#d4af37" stroke-opacity=".4"/>
+ <path d="M43 58 L64 58 L72 103 Q56 116 36 103Z" fill="url(#dress)" stroke="#d4af37" stroke-width="2"/>
+ <path d="M37 107 L33 123 M70 106 L76 122" stroke="#a77b61" stroke-width="8" stroke-linecap="round"/>
+ <path d="M36 71 L18 89 M72 70 L90 83" stroke="#bb8e73" stroke-width="8" stroke-linecap="round"/>
+ <rect x="48" y="46" width="13" height="18" rx="6" fill="#bd8a6f"/>
+ <ellipse cx="54" cy="36" rx="23" ry="28" fill="#c9977d"/>
+ <path d="M31 35 Q28 4 56 8 Q84 9 79 40 Q72 23 56 21 Q44 33 31 35Z" fill="url(#hair)"/>
+ <path d="M43 41 q5 -3 9 0 M59 41 q5 -3 9 0" fill="none" stroke="#45231c" stroke-width="2" stroke-linecap="round"/>
+ <path d="M51 52 q5 4 10 0" fill="none" stroke="#833e45" stroke-width="2" stroke-linecap="round"/>
+ <path d="M29 105 Q50 115 77 105" fill="none" stroke="#f3e3a1" stroke-width="2"/>
+ <path d="M87 15l3 7 7 3-7 3-3 7-3-7-7-3 7-3z" fill="#f3e3a1"/>
+</svg>
